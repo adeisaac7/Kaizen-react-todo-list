@@ -52,7 +52,7 @@ function App() {
   return(
     <>
       <div>
-        <div className="titleLeft">myTodo App</div>
+        <div className="titleLeft">TaskMaster</div>
         <div className="titleRight">by kAIzen</div>
       </div>
 
